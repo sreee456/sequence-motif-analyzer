@@ -1,1 +1,3 @@
-The Sequence Motif Enrichment Analyzer is an interactive bioinformatics dashboard designed to process sequence data and calculate targeted motif enrichment statistics. Built with Python and Streamlit, this tool allows users to upload datasets, adjust search parameters, and view the resulting enrichment metrics in real-time. This repository contains the source code and documentation developed for our collaborative academic project.
+The Sequence Motif Enrichment Analyzer is an interactive bioinformatics dashboard designed to process sequence data and calculate targeted motif enrichment statistics. Built with Python and Streamlit, this tool allows users to upload datasets, adjust search parameters, and view the resulting enrichment metrics in real-time. This repository contains the source code and documentation developed for our collaborative academic project.
+
+Public app (streamlit) link: https://sequence-motif-analyzer-cfhkjndskpekradvzyzhhp.streamlit.app
